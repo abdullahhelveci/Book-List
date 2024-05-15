@@ -1,0 +1,94 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "1984",
+            "author": "George Orwell",
+            "image": "https://img.kitapyurdu.com/v1/getImage/fn:11484453/wh:true/wi:800",
+            "year": 1949,
+            "page": 328,
+            "description": "Totaliter bir rejimde geçen distopik bir roman."
+        },
+        {
+            "id": 2,
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "image": "https://m.media-amazon.com/images/I/71FxgtFKcQL._AC_UF1000,1000_QL80_.jpg",
+            "year": 1960,
+            "page": 281,
+            "description": "Irkçılık ve adaletsizlik üzerine bir klasik."
+        },
+        {
+            "id": 3,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_.jpg",
+            "year": 1813,
+            "page": 279,
+            "description": "Aşk ve toplumsal sınıflar üzerine bir roman."
+        },
+        {
+            "id": 4,
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "image": "https://m.media-amazon.com/images/I/71ptoyWH8dL._AC_UF1000,1000_QL80_.jpg",
+            "year": 1925,
+            "page": 180,
+            "description": "Amerikan rüyası ve trajedi üzerine bir roman."
+        },
+        {
+            "id": 5,
+            "title": "One Hundred Years of Solitude",
+            "author": "Gabriel Garcia Marquez",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327881361i/320.jpg",
+            "year": 1967,
+            "page": 417,
+            "description": "Macondo'nun büyülü gerçekçilikle anlatılan hikayesi."
+        },
+        {
+            "id": 6,
+            "title": "Moby-Dick",
+            "author": "Herman Melville",
+            "image": "https://m.media-amazon.com/images/I/81R91ODA9DL._AC_UF1000,1000_QL80_.jpg",
+            "year": 1851,
+            "page": 635,
+            "description": "Büyük beyaz balina Moby Dick'in peşindeki Kaptan Ahab'ın öyküsü."
+        },
+        {
+            "id": 7,
+            "title": "War and Peace",
+            "author": "Leo Tolstoy",
+            "image": "https://www.nobleobjects.com/cdn/shop/articles/WarPeace_1-300391_1024x1024.jpg?v=1605747682",
+            "year": 1869,
+            "page": 1225,
+            "description": "Napolyon Savaşları sırasında Rusya'da geçen epik bir roman."
+        },
+        {
+            "id": 8,
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "image": "https://m.media-amazon.com/images/I/91teiIZ5vwL._AC_UF1000,1000_QL80_DpWeblab_.jpg",
+            "year": 1951,
+            "page": 214,
+            "description": "Ergenlik dönemindeki bir gencin toplumla mücadelesi."
+        },
+        {
+            "id": 9,
+            "title": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "image": "https://harpercollins.co.uk/cdn/shop/files/x500_dfe2f5e9-5e8c-4e6b-910e-5b584d8b2932_1200x1200.jpg?v=1714679404",
+            "year": 1954,
+            "page": 1178,
+            "description": "Orta Dünya'da geçen destansı bir macera."
+        },
+        {
+            "id": 10,
+            "title": "Harry Potter and the Philosopher's Stone",
+            "author": "J.K. Rowling",
+            "image": "https://m.media-amazon.com/images/I/81q77Q39nEL._AC_UF1000,1000_QL80_DpWeblab_.jpg",
+            "year": 1997,
+            "page": 223,
+            "description": "Genç bir büyücü olan Harry Potter'ın ilk macerası."
+        }
+    ]
+}
